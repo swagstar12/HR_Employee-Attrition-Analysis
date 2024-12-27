@@ -1,0 +1,10 @@
+JobRole,Attrition_Rate,AVG_Performance_Rating,Employee_Count
+"Sales Representative",39.7590,3.1446,83
+"Laboratory Technician",23.9382,3.1622,259
+"Human Resources",23.0769,3.1346,52
+"Sales Executive",17.4847,3.1258,326
+"Research Scientist",16.0959,3.1678,292
+"Manufacturing Director",6.8966,3.1862,145
+"Healthcare Representative",6.8702,3.1527,131
+Manager,4.9020,3.1961,102
+"Research Director",2.5000,3.1000,80

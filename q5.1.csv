@@ -1,0 +1,10 @@
+JobRole,avg(YearsSinceLastPromotion),AttritionRate,TotalEmployees
+"Healthcare Representative",2.9695,6.87023,131
+"Human Resources",1.2692,23.07692,52
+"Laboratory Technician",1.4208,23.93822,259
+Manager,4.8333,4.90196,102
+"Manufacturing Director",2.1172,6.89655,145
+"Research Director",3.1875,2.50000,80
+"Research Scientist",1.5068,16.09589,292
+"Sales Executive",2.4847,17.48466,326
+"Sales Representative",1.0602,39.75904,83

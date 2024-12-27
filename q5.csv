@@ -1,0 +1,115 @@
+JobRole,YearsSinceLastPromotion,AttritionRate,TotalEmployees
+"Healthcare Representative",0,9.30233,43
+"Healthcare Representative",1,2.85714,35
+"Healthcare Representative",2,0.00000,10
+"Healthcare Representative",3,20.00000,5
+"Healthcare Representative",4,0.00000,8
+"Healthcare Representative",5,0.00000,2
+"Healthcare Representative",6,0.00000,2
+"Healthcare Representative",7,14.28571,7
+"Healthcare Representative",8,0.00000,2
+"Healthcare Representative",9,0.00000,1
+"Healthcare Representative",10,0.00000,2
+"Healthcare Representative",11,16.66667,6
+"Healthcare Representative",12,0.00000,4
+"Healthcare Representative",13,0.00000,1
+"Healthcare Representative",14,0.00000,1
+"Healthcare Representative",15,50.00000,2
+"Human Resources",0,27.27273,22
+"Human Resources",1,20.00000,15
+"Human Resources",2,33.33333,6
+"Human Resources",3,33.33333,3
+"Human Resources",4,0.00000,2
+"Human Resources",5,0.00000,3
+"Human Resources",7,0.00000,1
+"Laboratory Technician",0,28.57143,126
+"Laboratory Technician",1,26.56250,64
+"Laboratory Technician",2,20.00000,25
+"Laboratory Technician",3,0.00000,12
+"Laboratory Technician",4,0.00000,5
+"Laboratory Technician",5,16.66667,6
+"Laboratory Technician",6,0.00000,4
+"Laboratory Technician",7,11.11111,9
+"Laboratory Technician",8,0.00000,1
+"Laboratory Technician",9,25.00000,4
+"Laboratory Technician",10,0.00000,1
+"Laboratory Technician",12,0.00000,1
+"Laboratory Technician",15,100.00000,1
+Manager,0,0.00000,23
+Manager,1,13.33333,15
+Manager,2,0.00000,9
+Manager,3,0.00000,3
+Manager,4,0.00000,12
+Manager,5,0.00000,2
+Manager,6,20.00000,5
+Manager,7,14.28571,7
+Manager,8,0.00000,1
+Manager,9,33.33333,3
+Manager,10,0.00000,1
+Manager,11,0.00000,8
+Manager,12,0.00000,2
+Manager,13,0.00000,2
+Manager,14,0.00000,4
+Manager,15,0.00000,5
+"Manufacturing Director",0,8.92857,56
+"Manufacturing Director",1,5.26316,38
+"Manufacturing Director",2,0.00000,9
+"Manufacturing Director",3,0.00000,7
+"Manufacturing Director",4,14.28571,7
+"Manufacturing Director",5,11.11111,9
+"Manufacturing Director",6,25.00000,4
+"Manufacturing Director",7,0.00000,9
+"Manufacturing Director",8,0.00000,2
+"Manufacturing Director",11,0.00000,1
+"Manufacturing Director",14,0.00000,2
+"Manufacturing Director",15,0.00000,1
+"Research Director",0,0.00000,24
+"Research Director",1,0.00000,17
+"Research Director",2,0.00000,9
+"Research Director",3,0.00000,4
+"Research Director",4,0.00000,5
+"Research Director",5,0.00000,5
+"Research Director",6,0.00000,3
+"Research Director",7,0.00000,2
+"Research Director",8,0.00000,3
+"Research Director",12,0.00000,2
+"Research Director",13,33.33333,3
+"Research Director",14,0.00000,1
+"Research Director",15,50.00000,2
+"Research Scientist",0,16.52893,121
+"Research Scientist",1,9.75610,82
+"Research Scientist",2,17.77778,45
+"Research Scientist",3,37.50000,8
+"Research Scientist",4,16.66667,6
+"Research Scientist",5,0.00000,3
+"Research Scientist",6,20.00000,5
+"Research Scientist",7,38.46154,13
+"Research Scientist",8,0.00000,4
+"Research Scientist",9,50.00000,2
+"Research Scientist",10,0.00000,1
+"Research Scientist",11,0.00000,1
+"Research Scientist",13,0.00000,1
+"Sales Executive",0,13.93443,122
+"Sales Executive",1,12.00000,75
+"Sales Executive",2,28.12500,32
+"Sales Executive",3,44.44444,9
+"Sales Executive",4,21.42857,14
+"Sales Executive",5,0.00000,11
+"Sales Executive",6,37.50000,8
+"Sales Executive",7,25.92593,27
+"Sales Executive",8,0.00000,5
+"Sales Executive",9,14.28571,7
+"Sales Executive",10,100.00000,1
+"Sales Executive",11,12.50000,8
+"Sales Executive",12,0.00000,1
+"Sales Executive",13,33.33333,3
+"Sales Executive",14,100.00000,1
+"Sales Executive",15,0.00000,2
+"Sales Representative",0,50.00000,44
+"Sales Representative",1,43.75000,16
+"Sales Representative",2,21.42857,14
+"Sales Representative",3,0.00000,1
+"Sales Representative",4,0.00000,2
+"Sales Representative",5,0.00000,4
+"Sales Representative",6,0.00000,1
+"Sales Representative",7,100.00000,1
